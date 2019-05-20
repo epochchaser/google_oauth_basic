@@ -1,0 +1,27 @@
+.GoogleOAuthCallBack-refresh-token-button {
+  background: #2980b9;
+  width: 240px;
+  height: 80px;
+  margin: 16px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+
+  &:hover {
+    background: #3498db;
+  }
+
+  &:active {
+    transition: all;
+    transform: translateX(2px) translateY(2px);
+  }
+}
+
+.GoogleOAuthCallBack-root-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

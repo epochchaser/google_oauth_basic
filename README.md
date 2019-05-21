@@ -2,8 +2,8 @@ OAuth for Google
 
 ## Prerequisite
 
-Client ID
-Client Secret
+- Client ID
+- Client Secret
 
 ### How to test
 
